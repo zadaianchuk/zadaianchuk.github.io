@@ -1,0 +1,193 @@
+{
+  "papers": [
+    {
+      "title": "Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments",
+      "authors": [
+        "Chenyu Zhang*",
+        "Daniil Cherniavskii*",
+        "Antonios Tragoudaras*",
+        "Antonios Vozikis",
+        "Thijmen Nijdam",
+        "Derck W. E. Prinzhorn",
+        "Mark Bodracska",
+        "Nicu Sebe",
+        "Andrii Zadaianchuk^",
+        "Efstratios Gavves^"
+      ],
+      "venue": "arXiv",
+      "year": 2025,
+      "link": "https://arxiv.org/abs/2504.02918",
+      "image": "/public/papers/Morpheus.png"
+    },
+    {
+      "title": "SENSEI: Semantic Exploration Guided by Foundation Models to Learn Versatile World Models",
+      "authors": [
+        "Cansu Sancaktar*",
+        "Christian Gumbsch*",
+        "Andrii Zadaianchuk",
+        "Pavel Kolev",
+        "Georg Martius"
+      ],
+      "venue": "ICML",
+      "year": 2025,
+      "link": "https://arxiv.org/abs/2503.01584",
+      "image": "/public/papers/SENSEI.png"
+    },
+    {
+      "title": "Temporally Consistent Object-Centric Learning by Contrasting Slots",
+      "authors": [
+        "Anna Manasyan",
+        "Maximilian Seitzer",
+        "Filip Radovic",
+        "Georg Martius",
+        "Andrii Zadaianchuk"
+      ],
+      "venue": "CVPR",
+      "year": 2025,
+      "note": "Oral",
+      "link": "https://arxiv.org/abs/2412.14295",
+      "image": "/public/papers/SlotContrast.png"
+    },
+    {
+      "title": "CTRL-O: Language-Controllable Object-Centric Visual Representation Learning",
+      "authors": [
+        "Aniket Didolkar*",
+        "Andrii Zadaianchuk*^",
+        "Rabiul Awal*",
+        "Maximilian Seitzer",
+        "Efstratios Gavves",
+        "Aishwarya Agrawal^"
+      ],
+      "venue": "CVPR",
+      "year": 2025,
+      "link": "https://arxiv.org/abs/2503.21747",
+      "image": "/public/papers/CTRL-O.png"
+    },
+    {
+      "title": "Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination",
+      "authors": [
+        "Leonardo Barcellona",
+        "Andrii Zadaianchuk",
+        "Davide Allegro",
+        "Samuele Papa",
+        "Stefano Ghidoni",
+        "Efstratios Gavves"
+      ],
+      "venue": "ICLR",
+      "year": 2025,
+      "link": "https://arxiv.org/abs/2412.14957",
+      "image": "/public/papers/DreMa.png"
+    },
+    {
+      "title": "On the Transfer of Object-Centric Representation Learning",
+      "authors": [
+        "Aniket Rajiv Didolkar*",
+        "Andrii Zadaianchuk",
+        "Anirudh Goyal",
+        "Michael Curtis Mozer",
+        "Yoshua Bengio",
+        "Georg Martius",
+        "Maximilian Seitzer*"
+      ],
+      "venue": "ICLR",
+      "year": 2025,
+      "link": "https://openreview.net/forum?id=bSq0XGS3kW",
+      "image": "/public/papers/FT-DINOSAUR.png"
+    },
+    {
+      "title": "Object-Centric Learning for Real-World Videos by Predicting Temporal Feature Similarities",
+      "authors": [
+        "Andrii Zadaianchuk*",
+        "Maximilian Seitzer*",
+        "Georg Martius"
+      ],
+      "venue": "NeurIPS",
+      "year": 2023,
+      "link": "https://martius-lab.github.io/videosaur/",
+      "image": "/public/papers/VideoSAUR.png"
+    },
+    {
+      "title": "Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations",
+      "authors": [
+        "Andrii Zadaianchuk",
+        "Matth\u00e4us Kleindessner",
+        "Yi Zhu",
+        "Francesco Locatello",
+        "Thomas Brox"
+      ],
+      "venue": "ICLR",
+      "year": 2023,
+      "link": "https://openreview.net/pdf?id=1_jFneF07YC",
+      "image": "/public/papers/COMUS.png",
+      "note": "Spotlight"
+    },
+    {
+      "title": "Bridging the Gap to Real World Object-Centric Learning",
+      "authors": [
+        "Maximilian Seitzer",
+        "Max Horn",
+        "Andrii Zadaianchuk",
+        "Dominik Zietlow",
+        "Tianjun Xiao",
+        "Carl-Johann Simon-Gabriel",
+        "Tong He",
+        "Zheng Zhang",
+        "Bernhard Sch\u00f6lkopf",
+        "Thomas Brox",
+        "Francesco Locatello"
+      ],
+      "venue": "ICLR",
+      "year": 2023,
+      "link": "https://dinosaur-paper.github.io/",
+      "image": "/public/papers/DINOSAUR.png"
+    },
+    {
+      "title": "Self-supervised Reinforcement Learning with Independently Controllable Subgoals",
+      "authors": [
+        "Andrii Zadaianchuk",
+        "Georg Martius",
+        "Fanny Yang"
+      ],
+      "venue": "CoRL",
+      "year": 2021,
+      "link": "https://arxiv.org/pdf/2109.04150.pdf",
+      "image": "/public/papers/SRICS.png"
+    },
+    {
+      "title": "Self-supervised Visual Reinforcement Learning with Object-centric Representations",
+      "authors": [
+        "Andrii Zadaianchuk*",
+        "Maximilian Seitzer*",
+        "Georg Martius"
+      ],
+      "venue": "ICLR",
+      "year": 2021,
+      "link": "https://arxiv.org/pdf/2011.14381.pdf",
+      "image": "/public/papers/SMORL.png",
+      "note": "Spotlight"
+    },
+    {
+      "title": "Unsupervised Learning of Independently Controllable Dynamic Components",
+      "authors": [
+        "Andrii Zadaianchuk",
+        "Georg Martius"
+      ],
+      "venue": "ICML Object-Oriented Learning Workshop",
+      "year": 2020,
+      "link": "https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_16.pdf",
+      "image": "/public/papers/ICDC.png"
+    },
+    {
+      "title": "A New Robotic Dataset for Transferable Dynamics Learning",
+      "authors": [
+        "Diego Alejandro Agudelo-Espa\u00f1a",
+        "Andrii Zadaianchuk",
+        "et al."
+      ],
+      "venue": "ICRA",
+      "year": 2020,
+      "link": "https://github.com/rr-learning/transferable_dynamics_dataset",
+      "image": "/public/papers/TransDynRobot.gif"
+    }
+  ]
+}
